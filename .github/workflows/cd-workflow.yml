@@ -59,4 +59,4 @@ jobs:
 #              arg2=value2
 #            cache-from: type=registry,ref=myorg/myrepository:latest
 #            cache-to: type=inline
-            tags: thesegoto11/github-actions-for-packages/tic-tac-toe:latest
+            tags: ghcr.io/thesegoto11/github-actions-for-packages/tic-tac-toe:latest
